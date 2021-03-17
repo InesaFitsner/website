@@ -34,6 +34,7 @@ Serves as a container for `P` (point) controls. Line chart control can contain m
 | Name       | Type   | Default | Description |
 | -----------| ------ | ------- | ----------- |
 | `color`    | string |         | Stroke color of the data set. |
+| `legend`   | string |         | Legend of the data set. |
 
 ### Child controls
 
